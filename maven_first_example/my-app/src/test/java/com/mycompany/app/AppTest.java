@@ -33,7 +33,7 @@ public class AppTest
      ****/
     public void testApp()
     {
-        assertTrue( true );
+        assertTrue( false );
     }
     public void testApp2()
     {
@@ -49,6 +49,6 @@ public class AppTest
     }
     public void testApp5()
     {
-        assertTrue( false );
+        assertTrue( true );
     }
 }
